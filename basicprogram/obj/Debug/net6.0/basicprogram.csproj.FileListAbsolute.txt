@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\bin\Debug\net6.0\basicprogram.exe
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\bin\Debug\net6.0\basicprogram.deps.json
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\bin\Debug\net6.0\basicprogram.runtimeconfig.json
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\bin\Debug\net6.0\basicprogram.dll
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\bin\Debug\net6.0\basicprogram.pdb
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.dll
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\refint\basicprogram.dll
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.pdb
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\basicprogram.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\dayx\basic program\basicprogram\basicprogram\obj\Debug\net6.0\ref\basicprogram.dll
